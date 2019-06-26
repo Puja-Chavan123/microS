@@ -1,0 +1,30 @@
+Problem Defination:
+
+
+1)Rockwell Automation is world wide company 
+2)Its head quarter in London and having 17 development centers.
+3)company having 3500 employee 
+4)company had private cloud for IT solution.
+5)But as growth of company increasing the private cloud is not suffiecient for IT solution
+6)Company decided to use Amazon Web Service public cloud -Infrastructure as a service(IAAS)
+7)Now using IAAS all employee able to access their Human Resource Solution portalfrom anywhare in the world
+8)company want to build and host this information system in public cloud Google cloud Platform.
+
+
+
+
+Functional Requirment::
+1)company is providing Human Resource Solution portal having di
+2)The human resource portal is having intactive GUI so that employee can easily acess this portal
+3)All employee can acess this human resource solution portal from anywhere in the world.
+4)employee can acess this portal at any time
+5)The human resource portal can handle huge load on portal
+
+
+
+
+Non-Functional Requirment::
+1)The human resource portal is secure  with username and password to each memployee
+2)The H.R portal is maintanable
+3)High performance is major factor
+   
